@@ -1,0 +1,8 @@
+.DS_Store
+secrets.txt
+
+#This is comment
+
+#Wilecards
+  
+#       *.txt      all files having .txt extension will be ignored        
